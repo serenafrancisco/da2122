@@ -1,0 +1,2 @@
+I downloaded FastQC zip folder using "git clone https://github.com/s-andrews/FastQC.git" and neither using the terminal nor the GUI I managed to run the program.
+I downloaded FastQC zip folder from the website https://www.bioinformatics.babraham.ac.uk/projects/download.html#fastqc and this time it worked both interactively and from the terminal (in the latter case I used ".\run_fastqc.bat + filename"
