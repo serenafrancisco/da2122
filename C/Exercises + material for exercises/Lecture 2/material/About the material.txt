@@ -1,2 +1,0 @@
-Lecture 2 "dataset0" contains the same file of Lecture 1 "RNAseq exemplary dataset"
-In Lecture 2 he also gave us "dataset1" which should be used in MultiQC (while "dataset0" is to use with FastQC) 

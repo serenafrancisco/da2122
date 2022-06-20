@@ -1,6 +1,0 @@
-1. Opened Miniconda3 virtual environment as I didn't manage to have Python running on my PC
-2. Moved to the Desktop where I unzipped dataset1 folder
-3. Typed on Miniconda3 terminal the following command "(base) PS C:\Users\Serena Francisco\Desktop> multiqc dataset1"
-4. See output "multiqc_on_dataset1_ex2" in the exercises folder
-5. Opened the HTML document that appeared on my desktop as a result of the command as well as the folder "multiqc_data"
-6. See output "multiqc_report" in the exercises folder

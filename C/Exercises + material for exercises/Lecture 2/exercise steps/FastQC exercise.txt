@@ -1,4 +1,0 @@
-1. Tried to launch FastQC + bulk RNAseq experiment file and scRNAseq experiment (C:\Users\Serena Francisco\Desktop\FastQC>.\run_fastqc.bat ra100k.R1.fastq sample1100k_S1_L001_R2_001.fastq)
-2. It didn't work (neither using " " to call files)
-3. Opened interactively FastQC and uploaded both files
-4. See "fastqc_file1_ex2" and "fastqc_file2_ex2" outputs in the exercises folder
