@@ -1,4 +1,0 @@
-1. Conda installed following the link given by "MultiQC installation" HTML page
-2. From Anaconda Powershell Prompt: conda install -c bioconda -c conda-forge multiqc
-3. Proceed? [y]/n --> y
-4. 
